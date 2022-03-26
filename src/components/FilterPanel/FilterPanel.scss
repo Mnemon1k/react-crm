@@ -1,0 +1,33 @@
+.product-filter-panel {
+  .ant-select {
+    width: 100%;
+  }
+
+  .ant-btn {
+    width: 100%;
+  }
+
+  > * + * {
+    margin-top: 10px;
+  }
+}
+
+@media screen and (min-width: 576px) {
+  .product-filter-panel {
+    display: flex;
+
+    .ant-btn {
+      width: auto;
+    }
+
+    .ant-select {
+      width: 240px;
+      margin-bottom: 0;
+    }
+
+    > * + * {
+      margin-top: 0;
+      margin-left: 20px;
+    }
+  }
+}

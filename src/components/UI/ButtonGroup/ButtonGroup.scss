@@ -1,0 +1,9 @@
+.btn-group {
+  display: inline-block;
+  
+  > button + button,
+  > .btn + .btn,
+  > .ant-btn + .ant-btn {
+    margin-left: 10px;
+  }
+}
