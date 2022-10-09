@@ -1,6 +1,6 @@
 # CRM system - educational project
 
-This is my educational project designed to develop Redux and GraphQL skills.
+Educational project designed to develop Redux and GraphQL skills.
 
 [Demo - https://react-crm-mnemon1k.vercel.app/](https://react-crm-mnemon1k.vercel.app/)
 
