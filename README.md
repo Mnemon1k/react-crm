@@ -4,7 +4,7 @@ This is my educational project designed to develop Redux and GraphQL skills.
 
 [Demo - https://react-crm-mnemon1k.vercel.app/](https://react-crm-mnemon1k.vercel.app/)
 
-![](https://s4.gifyu.com/images/3333333333333-1.gif)
+![](https://i.ibb.co/Sf9YCkR/screely-1665314997865.png))
 
 ## Stack:
 - Front-end: React
